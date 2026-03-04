@@ -1,4 +1,4 @@
-# Exercise_Ask_Kat
+# Exercise-Katanemimena
 Exercise for Distributed Systems 2024-2025
 User Manual
 
